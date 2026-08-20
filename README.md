@@ -5,7 +5,7 @@
   <img src="https://64.media.tumblr.com/2557931ce1461bfba86fcc1978fd22b9/485b56e54b389e56-83/s1280x1920/26455d0a65efac63d014af6e1e7256701c1cc2a8.pnj" title="edited by me. @xxurskull on tumblr" width=750px/> <div align="center">
 
 
-<img src="https://64.media.tumblr.com/a15557954bae8834f5bd4aa589d0886e/485b56e54b389e56-51/s2048x3072/1ab69a87db542644e007d17405fbacb859bfb0de.pnj" title="by @pastfatality on tumblr" width=750px/>
+<img src="https://64.media.tumblr.com/a15557954bae8834f5bd4aa589d0886e/485b56e54b389e56-51/s2048x3072/1ab69a87db542644e007d17405fbacb859bfb0de.pnj" title="by @pastfatality on tumblr" width=650px/>
 
 
 
@@ -13,9 +13,9 @@
     <tr align="center"></tr>
       <th>
            <br>  
-         <img src="https://64.media.tumblr.com/e661386d38f9a065cefe9256119256b6/204186ec1326e515-d2/s100x200/4540dca1a4de8ef644092a4e8041d95d719ba468.gifv" width="70" alt="left wing">
-<img align="center" src="https://64.media.tumblr.com/309693acb6cc653ec6d9e1cef8b569dd/485b56e54b389e56-fb/s2048x3072/ff08124118af86b9860e37723d71c7c642978673.pnj"  height="250px" title="edited by @xxurskull (me) on tumblr">
-  <img src="https://64.media.tumblr.com/c1f9057e6f43efac461b2be47650318f/204186ec1326e515-1c/s100x200/ae33fd914082a61f6b048a146ddb45a5530276d2.gifv" width="70" alt="right wing">
+         <img src="https://64.media.tumblr.com/e661386d38f9a065cefe9256119256b6/204186ec1326e515-d2/s100x200/4540dca1a4de8ef644092a4e8041d95d719ba468.gifv" width="55" alt="left wing">
+<img align="center" src="https://64.media.tumblr.com/309693acb6cc653ec6d9e1cef8b569dd/485b56e54b389e56-fb/s2048x3072/ff08124118af86b9860e37723d71c7c642978673.pnj"  height="200px" title="edited by @xxurskull (me) on tumblr">
+  <img src="https://64.media.tumblr.com/c1f9057e6f43efac461b2be47650318f/204186ec1326e515-1c/s100x200/ae33fd914082a61f6b048a146ddb45a5530276d2.gifv" width="55" alt="right wing">
        <br>  
 <img src=":/https/64.media.tumblr.com/cf6c4aa88ab057adb3f402bcf0e20e38/0d79be5f8e37bdca-cb/s250x400/1f078ac9e3b0aabe01d8b3d5ad641b908a4ee2a2.gifv" width="70">
              <br>
