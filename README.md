@@ -30,3 +30,5 @@ $\color{#3D41A1}{\textsf{c + h freely.}}$ $\color{#dbe1f3}{\textsf{Usually offta
   <img src="https://64.media.tumblr.com/a0879e63222fb6ba8fb09e8d4f149ee1/485b56e54b389e56-90/s2048x3072/ccd50e813cf3c274c25734dac2a9296914154022.pnj" title="show me your teeth , by @xxurskull (me) on tumblr" width=750px/>
 
    <img src="https://64.media.tumblr.com/51d3151ef9c5450d028aa776e403fbc9/7b5f3388d245d228-7d/s250x400/f629dc0413f6f539a860ccce8b11db1639b35c22.pnj" width=750px/> <div align="center">
+
+   @stupidRoock @Carancito
