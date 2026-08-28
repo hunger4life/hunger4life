@@ -5,7 +5,7 @@
   <img src="https://64.media.tumblr.com/2557931ce1461bfba86fcc1978fd22b9/485b56e54b389e56-83/s1280x1920/26455d0a65efac63d014af6e1e7256701c1cc2a8.pnj" title="edited by me. @xxurskull on tumblr" width=750px/> <div align="center">
 
 
-<img src="https://64.media.tumblr.com/a15557954bae8834f5bd4aa589d0886e/485b56e54b389e56-51/s2048x3072/1ab69a87db542644e007d17405fbacb859bfb0de.pnj" title="by @pastfatality on tumblr" width=650px/>
+<img src="https://64.media.tumblr.com/480c771228d35c0aa3280e57d567a71c/cc6cdaec02ff8d19-bf/s2048x3072/503fba0c945dd847346c90d320631037d131ab27.pnj" title="by @pastfatality on tumblr" width=650px/>
 
 
 
