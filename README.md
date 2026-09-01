@@ -11,12 +11,12 @@
     <tr align="center"></tr>
       <th>
            <br>  
-          <img src="https://64.media.tumblr.com/309693acb6cc653ec6d9e1cef8b569dd/485b56e54b389e56-fb/s2048x3072/ff08124118af86b9860e37723d71c7c642978673.pnj" alt="otasune muah" height="150px" title="Nothing bad ever happens to otacon and dave" >
+          <img src="https://64.media.tumblr.com/69d429b93c52ccd14fd4598b4015e29a/205116b8948c1e4c-e2/s2048x3072/f3e83a53673be796400b480bffbb261eb6f6d8ae.pnj" height="100px" title="Jay" >
 <br>
              <br>
-        $$\color{#dbe1f3}Hello, I'm\ \color{#3D3482}Jason/Jay.$$ <br>
-      $$\color{#F92850}I\ \color{#F92850}go\ \color{#F92850}by\ \color{#F92850}⟢  hꫀ - him$$ <br>
-$$\color{#3D41A1}c + h\ \color{#3D41A1}freely.\ \color{#dbe1f3}Usually\ \color{#dbe1f3}afk\ \color{#dbe1f3}/\ \color{#dbe1f3}offtab.$$<br>
+        $\color{#dbe1f3}{\textsf{Hello, I'm}}$ $\color{#3D3482}{\textsf{Jason/Jay}}$<br>
+$\color{#F92850}{\textsf{ I go by}}$ $\color{#F92850}{\textsf{ ⟢ hꫀ − him  }}$ <br>
+ $\color{#3D41A1}{\textsf{c+h freely}}$ $\color{#3D3482}{\textsf{.}}$ $\color{#dbe1f3}{\textsf{Usually offtab or afk.}}$<br>
         <br>
       </th>
   </table>
@@ -27,4 +27,3 @@ $$\color{#3D41A1}c + h\ \color{#3D41A1}freely.\ \color{#dbe1f3}Usually\ \color{#
 [𓏼ᧆ @Carancillo](https://github.com/Carancito)
  $\color{#3D3482}{\textsf{ʚ}}$ $\color{#F92850}{\textsf{♡}}$ $\color{#3D3482}{\textsf{ɞ}}$
 [@Rocksita ﹐𐭩˚ִִ𓈒](https://github.com/stupidRoock) 
-
