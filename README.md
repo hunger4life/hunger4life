@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://typingsvg.vercel.app/api/svg?width=800&height=50&backgroundOpacity=0&border=false&Style=block&lines=%5B%7B%22text%22%3A%22So+are+you+a+boy+or+are+you+just+your+trauma?%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%233D41A1%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.0333555703802535%7D%2C%7B%22text%22%3A%22I'm+not+a+broken+thing+or+one+or+the+other.%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%23F92850%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.1%7D%5D" alt="Typing SVG" title="Sweet Cis Teen" width=600px/></a>
+  <img src="https://typingsvg.vercel.app/api/svg?width=800&height=50&backgroundOpacity=0&border=false&Style=block&lines=%5B%7B%22text%22%3A%22And+I+know+you're+scared...%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%233D41A1%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.0333555703802535%7D%2C%7B%22text%22%3A%22well,+I'm+scared+too.%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%23F92850%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.1%7D%5D" alt="Typing SVG" title="Sweet Cis Teen" width=600px/></a>
 <div align="center">
 
   <img src="https://64.media.tumblr.com/2557931ce1461bfba86fcc1978fd22b9/485b56e54b389e56-83/s1280x1920/26455d0a65efac63d014af6e1e7256701c1cc2a8.pnj" title="edited by me. @xxurskull on tumblr" width=750px/> <div align="center">
@@ -13,9 +13,7 @@
        <br>  
 <img src=":/https/64.media.tumblr.com/cf6c4aa88ab057adb3f402bcf0e20e38/0d79be5f8e37bdca-cb/s250x400/1f078ac9e3b0aabe01d8b3d5ad641b908a4ee2a2.gifv" width="70">
         
-$$\color{#dbe1f3}Hello, I'm\ \color{#3D3482}Jason/Jay.$$
-$$\color{#F92850}I\ \color{#F92850}go\ \color{#F92850}by\ \color{#F92850}⟢  hꫀ - him$$
-$$\color{#3D41A1}c + h\ \color{#3D41A1}freely.\ \color{#dbe1f3}Usually\ \color{#dbe1f3}afk\ \color{#dbe1f3}/\ \color{#dbe1f3}offtab.$$
+$$\color{#dbe1f3}Hello, I'm\ \color{#3D3482}Jason/Jay.$$ $$\color{#F92850}I\ \color{#F92850}go\ \color{#F92850}by\ \color{#F92850}⟢  hꫀ - him$$ $$\color{#3D41A1}c + h\ \color{#3D41A1}freely.\ \color{#dbe1f3}Usually\ \color{#dbe1f3}afk\ \color{#dbe1f3}/\ \color{#dbe1f3}offtab.$$
 
   <img src="https://64.media.tumblr.com/a0879e63222fb6ba8fb09e8d4f149ee1/485b56e54b389e56-90/s2048x3072/ccd50e813cf3c274c25734dac2a9296914154022.pnj" title="show me your teeth , by @xxurskull (me) on tumblr" width=750px/>
 
