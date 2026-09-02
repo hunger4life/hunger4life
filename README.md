@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://typingsvg.vercel.app/api/svg?width=800&height=50&backgroundOpacity=0&border=false&Style=block&lines=%5B%7B%22text%22%3A%22And+I+know+you're+scared...%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%233D41A1%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.0333555703802535%7D%2C%7B%22text%22%3A%22well,+I'm+scared+too.%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%23F92850%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.1%7D%5D" alt="Typing SVG" title="Sweet Cis Teen" width=600px/></a>
+  <img src="https://typingsvg.vercel.app/api/svg?width=800&height=50&backgroundOpacity=0&border=false&Style=block&lines=%5B%7B%22text%22%3A%22Do+you+believe+in+love+at+first+sight?%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%233D41A1%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.0333555703802535%7D%2C%7B%22text%22%3A%22Do+you+believe+in+faith?%22%2C%22font%22%3A%22Tiny5%22%2C%22color%22%3A%22%23F92850%22%2C%22typingSpeed%22%3A0.09%2C%22deleteSpeed%22%3A0.1%7D%5D" alt="Typing SVG" title="Sweet Cis Teen" width=600px/></a>
 <div align="center">
 
   <img src="https://64.media.tumblr.com/2557931ce1461bfba86fcc1978fd22b9/485b56e54b389e56-83/s1280x1920/26455d0a65efac63d014af6e1e7256701c1cc2a8.pnj" title="edited by me. @xxurskull on tumblr" width=750px/> <div align="center">
