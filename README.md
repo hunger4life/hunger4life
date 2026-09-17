@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-  <img src="https://64.media.tumblr.com/2557931ce1461bfba86fcc1978fd22b9/485b56e54b389e56-83/s1280x1920/26455d0a65efac63d014af6e1e7256701c1cc2a8.pnj" title="edited by me. @xxurskull on tumblr" width=750px/> <div align="center">
+  <img src="https://64.media.tumblr.com/2557931ce1461bfba86fcc1978fd22b9/485b56e54b389e56-83/s1280x1920/26455d0a65efac63d014af6e1e7256701c1cc2a8.pnj" width=750px/> <div align="center">
 
 
 <img src="https://64.media.tumblr.com/480c771228d35c0aa3280e57d567a71c/cc6cdaec02ff8d19-bf/s2048x3072/503fba0c945dd847346c90d320631037d131ab27.pnj" title="by @pastfatality on tumblr" width=650px/>
@@ -21,6 +21,6 @@ $\color{#F92850}{\textsf{ I go by}}$ $\color{#F92850}{\textsf{ ⟢ hꫀ − him 
         <br>
       </th>
   </table>
-  <img src="https://64.media.tumblr.com/a0879e63222fb6ba8fb09e8d4f149ee1/485b56e54b389e56-90/s2048x3072/ccd50e813cf3c274c25734dac2a9296914154022.pnj" title="show me your teeth , by @xxurskull (me) on tumblr" width=750px/>
+  <img src="https://64.media.tumblr.com/a0879e63222fb6ba8fb09e8d4f149ee1/485b56e54b389e56-90/s2048x3072/ccd50e813cf3c274c25734dac2a9296914154022.pnj" width=750px/>
 
 
