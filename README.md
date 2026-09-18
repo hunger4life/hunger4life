@@ -22,7 +22,8 @@
 </td>
 
 <td width="50%" align="center">
-
+$\color{#F92850}{\text{‎ ‎──────── }}$
+  
 $\color{#1C1E43}{\textsf{Hello,}}$ $\color{#272A62}{\textsf{I'm}}$ $\color{#32357A}{\textsf{Jason / Jay}}$ <br>
 
 $\color{#272A62}{\textsf{੭　˙  hꫀ/}}$ $\color{#363A8B}{\textsf{him}}$ $\color{#4C51AD}{\textsf{ᵃⁿᵈ}}$ $\color{#3D41A1}{\textsf{esp/eng.}}$ <br>
