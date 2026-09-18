@@ -10,17 +10,35 @@
            <br>  
 <table border="0" align="center">
     <tr align="center"></tr>
-      <th>
-           <br>  
-          <img src="https://64.media.tumblr.com/69d429b93c52ccd14fd4598b4015e29a/205116b8948c1e4c-e2/s2048x3072/f3e83a53673be796400b480bffbb261eb6f6d8ae.pnj" height="100px" title="Jay" >
-<br>
-             <br>
-        $\color{#dbe1f3}{\textsf{Hello, I'm}}$ $\color{#3D3482}{\textsf{Jason/Jay}}$<br>
-$\color{#F92850}{\textsf{ I go by}}$ $\color{#F92850}{\textsf{ ⟢ hꫀ − him  }}$ <br>
- $\color{#3D41A1}{\textsf{c+h freely}}$ $\color{#3D3482}{\textsf{.}}$ $\color{#dbe1f3}{\textsf{Usually offtab or afk.}}$<br>
-        <br>
-      </th>
-  </table>
-  <img src="https://64.media.tumblr.com/a0879e63222fb6ba8fb09e8d4f149ee1/485b56e54b389e56-90/s2048x3072/ccd50e813cf3c274c25734dac2a9296914154022.pnj" width=750px/>
+          
+<div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
 
+<img src="https://64.media.tumblr.com/bffd510b58a5ba07ecd4fb911b79fd16/205116b8948c1e4c-6a/s1280x1920/6033b3e8032a67cbf076230d5e465513be947db1.pnj" width="350">
+
+</td>
+
+<td width="50%" align="center">
+
+$\color{#F92850}{\text{‎ ‎ ‎── ⟢ }}$
+
+$\color{#1C1E43}{\textsf{Hello,}}$ $\color{#272A62}{\textsf{I'm}}$ $\color{#32357A}{\textsf{Jason / Jay}}$ <br>
+
+$\color{#32357A}{\textsf{੭　˙  hꫀ/}}$ $\color{#363A8B}{\textsf{him}}$ $\color{#3D41A1}{\textsf{ᵃⁿᵈ}}$ $\color{#4C51AD}{\textsf{esp/eng.}}$ <br>
+
+$\color{#272A62}{\text{c + h　freely.}}$
+
+$\color{#1C1E43}{\textsf{usually}}$ $\color{#272A62}{\textsf{offtab}}$ $\color{#32357A}{\textsf{or}}$ $\color{#363A8B}{\textsf{busy ࣪ ໒꒱}}$ <br>
+
+$\color{#4C51AD}{\text{新}}$[book](https://wingedjay.atabook.org) $\color{#4C51AD}{\text{✦}}$ $\color{#F92850}{\text{i}}$[nfo](https://pronouns.cc/@Hungerr4life) 
+
+</td>
+</tr>
+</table>
+
+</div>
+
+ <img src="https://64.media.tumblr.com/a0879e63222fb6ba8fb09e8d4f149ee1/485b56e54b389e56-90/s2048x3072/ccd50e813cf3c274c25734dac2a9296914154022.pnj" width=750px/>
