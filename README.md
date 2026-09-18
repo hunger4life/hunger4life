@@ -23,17 +23,17 @@
 
 <td width="50%" align="center">
 
-$\color{#F92850}{\text{‎ ‎ ‎── ⟢ }}$
-
 $\color{#1C1E43}{\textsf{Hello,}}$ $\color{#272A62}{\textsf{I'm}}$ $\color{#32357A}{\textsf{Jason / Jay}}$ <br>
 
-$\color{#32357A}{\textsf{੭　˙  hꫀ/}}$ $\color{#363A8B}{\textsf{him}}$ $\color{#3D41A1}{\textsf{ᵃⁿᵈ}}$ $\color{#4C51AD}{\textsf{esp/eng.}}$ <br>
+$\color{#272A62}{\textsf{੭　˙  hꫀ/}}$ $\color{#363A8B}{\textsf{him}}$ $\color{#4C51AD}{\textsf{ᵃⁿᵈ}}$ $\color{#3D41A1}{\textsf{esp/eng.}}$ <br>
 
-$\color{#272A62}{\text{c + h　freely.}}$
+$\color{#272A62}{\text{c + h}}$ $\color{#363A8B}{\text{freely.}}$
 
 $\color{#1C1E43}{\textsf{usually}}$ $\color{#272A62}{\textsf{offtab}}$ $\color{#32357A}{\textsf{or}}$ $\color{#363A8B}{\textsf{busy ࣪ ໒꒱}}$ <br>
 
 $\color{#4C51AD}{\text{新}}$[book](https://wingedjay.atabook.org) $\color{#4C51AD}{\text{✦}}$ $\color{#F92850}{\text{i}}$[nfo](https://pronouns.cc/@Hungerr4life) 
+
+$\color{#F92850}{\text{‎ ‎ ═══════ }}$
 
 </td>
 </tr>
