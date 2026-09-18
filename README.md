@@ -34,7 +34,7 @@ $\color{#1C1E43}{\textsf{usually}}$ $\color{#272A62}{\textsf{offtab}}$ $\color{#
 
 $\color{#4C51AD}{\text{新}}$[book](https://wingedjay.atabook.org) $\color{#4C51AD}{\text{✦}}$ $\color{#F92850}{\text{i}}$[nfo](https://pronouns.cc/@Hungerr4life) 
 
-$\color{#F92850}{\text{‎ ‎ ═══════ }}$
+$\color{#F92850}{\text{‎ ‎ ──────── }}$
 
 </td>
 </tr>
