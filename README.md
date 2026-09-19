@@ -59,6 +59,10 @@ $\color{#565CB7}{\text{‎ ‎ Ty! }}$
 
 $\color{#F92850}{\text{‎ ‎ ──────── }}$
 
+<img src="https://64.media.tumblr.com/4f8e9e063478a62f36364942d4331c41/7daa1dc5a37f8a96-92/s1280x1920/fb1eedd7691b1f2a2542cae84916b239eff017ad.pnj" width=200px/>
+
+
+
 </details>
 
 </div>
