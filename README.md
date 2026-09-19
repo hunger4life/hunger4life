@@ -36,9 +36,13 @@ $\color{#4C51AD}{\text{新}}$[book](https://wingedjay.atabook.org) $\color{#4C51
 
 $\color{#F92850}{\text{‎ ‎ ──────── }}$
 
+
+
 </td>
 </tr>
 </table>
+
+![oh naw](https://img.shields.io/badge/oh%20naw-67-3D41A1?style=flat&labelColor=F92850)
 
 </div>
 
