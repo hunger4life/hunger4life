@@ -55,7 +55,7 @@ $\color{#272A62}{\text{⤷ I tend to}}$ $\color{#32357A}{\text{delete people}}$ 
 
 $\color{#1C1E43}{\text{‎‎Hearts don't mean}}$ $\color{#272A62}{\text{‎anything at all,}}$ $\color{#32357A}{\text{‎I just love that effect. ֺּׅ𓏽⑅}}$
 
-$\color{#565CB7}{\text{‎ ‎ Ty! }}$
+$\color{#565CB7}{\text{‎ ‎ Ty! ᵔ⤙ᵔ }}$
 
 $\color{#F92850}{\text{‎ ‎ ──────── }}$
 
