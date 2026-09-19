@@ -44,6 +44,28 @@ $\color{#F92850}{\text{‎ ‎ ──────── }}$
 
 ![oh naw](https://img.shields.io/badge/oh%20naw-67-3D41A1?style=flat&labelColor=F92850)
 
+<details>
+<summary><kbd><font color="#F92850">EXTRA</font></kbd></summary>
+
+$\color{#F92850}{\text{‎ ‎ ──────── }}$
+
+$\color{#1C1E43}{\text{༄. ‎Please tell me}}$ $\color{#272A62}{\text{‎if I am sitting over someone or}}$ $\color{#363A8B}{\text{‎if someone is sitting over me,}}$ $\color{#3D41A1}{\text{‎I have a lot of hidden players.}}$
+
+$\color{#272A62}{\text{⤷ I tend to}}$ $\color{#32357A}{\text{delete people}}$ $\color{#3D41A1}{\text{from friends in PT because}}$ $\color{#4C51AD}{\text{I forget who they are,}}$ $\color{#565CB7}{\text{sorry!}}$
+
+$\color{#1C1E43}{\text{‎‎Hearts don't mean}}$ $\color{#272A62}{\text{‎anything at all,}}$ $\color{#32357A}{\text{‎I just love that effect. ֺּׅ𓏽⑅}}$
+
+$\color{#565CB7}{\text{‎ ‎ Ty! }}$
+
+$\color{#F92850}{\text{‎ ‎ ──────── }}$
+
+</details>
+
 </div>
 
  <img src="https://64.media.tumblr.com/a0879e63222fb6ba8fb09e8d4f149ee1/485b56e54b389e56-90/s2048x3072/ccd50e813cf3c274c25734dac2a9296914154022.pnj" width=750px/>
+
+ 
+
+
+
