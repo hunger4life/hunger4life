@@ -45,7 +45,7 @@ $\color{#F92850}{\text{‎ ‎ ──────── }}$
 ![oh naw](https://img.shields.io/badge/oh%20naw-67-3D41A1?style=flat&labelColor=F92850)
 
 <details>
-<summary><kbd><font color="#F92850">EXTRA</font></kbd></summary>
+<summary><kbd><font color="#F92850">ᐡᴗ͈ ᴗ͈ᐡ</font></kbd></summary>
 
 $\color{#F92850}{\text{‎ ‎ ──────── }}$
 
