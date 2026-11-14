@@ -32,7 +32,7 @@ $\color{#272A62}{\text{c + h}}$ $\color{#363A8B}{\text{freely.}}$
 
 $\color{#1C1E43}{\textsf{usually}}$ $\color{#272A62}{\textsf{offtab}}$ $\color{#32357A}{\textsf{or}}$ $\color{#363A8B}{\textsf{busy ࣪ ໒꒱}}$ <br>
 
-$\color{#4C51AD}{\text{新}}$[book](https://wingedjay.atabook.org) $\color{#4C51AD}{\text{✦}}$ $\color{#F92850}{\text{i}}$[nfo](https://pronouns.cc/@Hungerr4life) 
+$\color{#4C51AD}{\text{新}}$[book](https://hunger4life.atabook.org) $\color{#4C51AD}{\text{✦}}$ $\color{#F92850}{\text{i}}$[nfo](https://pronouns.cc/@Hungerr4life) 
 
 $\color{#F92850}{\text{‎ ‎ ──────── }}$
 
